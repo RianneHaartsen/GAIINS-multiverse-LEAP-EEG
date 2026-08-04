@@ -1,7 +1,7 @@
 %% EEG multiverse space: Creating the space
 
 % This script creates the multiverse space with all the EEG metrics. 
-% It takes half of the discovery sample, then culates the distances between the metrics,
+% It takes half of the discovery sample, then calculates the distances between the metrics,
 % and finally applies multidimensional scaling. 
 
 % Input data: 
